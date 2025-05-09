@@ -24,8 +24,5 @@ jsonschema==3.2.0
 pyrsistent==0.18.1
 
 # --- AMQP y RabbitMQ relacionados ---
-cryptography==3.4.8  # Compatible y sin necesidad de compilar
-Twisted==22.10.0     # Versión estable compatible en Render
-
-# (opcional) Solo si llegas a necesitar Cython explícitamente
-# Cython>=0.29
+cryptography
+Twisted
