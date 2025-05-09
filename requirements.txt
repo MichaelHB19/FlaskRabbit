@@ -17,7 +17,6 @@ distlib==0.3.4
 distro==1.7.0
 filelock==3.6.0
 Flask==3.1.0
-gyp==0.1
 h11==0.13.0
 httplib2==0.20.2
 hyperlink==21.0.0
